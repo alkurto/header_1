@@ -1,0 +1,13 @@
+С правами администратора!
+
+1) npm i
+2) npm install webp-converter@2.2.3 --save-dev
+3) gulp
+
+Переустановка node-sass
+npm rebuild node-sass
+
+Проблема с pyton
+npm install --global windows-build-tools
+
+npm i -D browser-sync fs gulp-autoprefixer gulp-sass gulp-group-css-media-queries gulp-plumber del gulp-imagemin gulp-uglify-es gulp-rename gulp-file-include gulp-clean-css gulp-newer imagemin-webp gulp-webpcss gulp-webp-html gulp-fonter gulp-ttf2woff gulp-ttf2woff2
